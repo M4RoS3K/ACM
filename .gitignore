@@ -1,0 +1,7 @@
+.vs
+.git
+packages
+ACM.BL/bin
+ACM.BL/obj
+Tests/ACM.BL.Test/bin
+Tests/ACM.BL.Test/obj
